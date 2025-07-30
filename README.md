@@ -3,6 +3,12 @@
 **Companion Repository for the Apress Book:**  
 *"Deploying Secure Data Science Applications in the Cloud: From VMs to Serverless with AWS and Google Cloud"*
 
+## 📚 Get the Book
+
+📖 **Official Book Page**: [Springer/Apress](https://link.springer.com/book/9798868817144)  
+🛒 **Purchase on Amazon**: [Amazon Store](https://www.amazon.com/Deploying-Secure-Science-Applications-Cloud/dp/B0FCKTNL3W)  
+👤 **Connect with the Author**: [LinkedIn](https://www.linkedin.com/in/lucasbraga461/)
+
 ---
 
 ## 📖 About This Repository
@@ -183,7 +189,21 @@ Code examples are provided for educational purposes as companion material to the
 
 ## 📖 About the Book
 
-"Deploying Secure Data Science Applications in the Cloud: From VMs to Serverless with AWS and Google Cloud" provides comprehensive guidance for data scientists and engineers looking to deploy production-ready applications in cloud environments. The book covers everything from basic infrastructure setup to advanced serverless architectures, with a strong emphasis on security and best practices.
+"Deploying Secure Data Science Applications in the Cloud: From VMs to Serverless with AWS and Google Cloud" is a comprehensive guide for Data Scientists, ML engineers, and DevOps practitioners who need to turn prototypes into secure, scalable production services. This step-by-step book bridges the gap between building Data Science applications and Machine Learning models, and deploying them effectively in real-world scenarios.
+
+### What You'll Learn:
+- Deploy end-to-end data science applications with cloud infrastructure setup
+- Use industry-standard tools like Docker, Nginx, Flask, Streamlit, and Jenkins
+- Structure and expose machine learning models via APIs for production use
+- Explore modern serverless architectures with AWS ECS Fargate and Google Cloud Run
+- Develop secure cloud deployment practices from the ground up
+
+### Target Audience:
+Beginning to intermediate professionals with Python knowledge, including Data Scientists, ML Engineers, Data Engineers, and Data Analysts looking to securely deploy projects in production environments.
+
+**Release Date**: September 2025  
+**Publisher**: Apress (Springer Nature)  
+**Author**: Lucas Henrique Benevides e Braga
 
 ---
 
