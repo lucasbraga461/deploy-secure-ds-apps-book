@@ -1,0 +1,6 @@
+{
+    "prod": {
+        "user": "admin",
+        "password": "securepassword123"
+    }
+}
