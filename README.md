@@ -22,32 +22,32 @@ This repository contains all the practical code examples, configurations, and de
 
 ## 📚 Chapter Overview
 
-### Chapter 2: SSH to the EC2 Instance with VSCode and Necessary Setup
+### Chapter 02: SSH to the EC2 Instance with VSCode and Necessary Setup
 - Initial cloud setup and development environment configuration
 - Streamlit example application
 
-### Chapter 4: Domain Name and SSL Certificates
+### Chapter 04: Domain Name and SSL Certificates
 - SSL certificate configuration
 - Nginx setup for HTTPS
 - Docker Compose orchestration
 
-### Chapter 5: Deploying More Robust Applications
+### Chapter 05: Deploying More Robust Applications
 - Multi-service deployment with Docker Compose
 - Jenkins integration for CI/CD
 - Flask and Streamlit application orchestration
 - Nginx reverse proxy configuration
 
-### Chapter 6: Create and Secure Your Subdomains
+### Chapter 06: Create and Secure Your Subdomains
 - Subdomain security implementation
 - Advanced Nginx configuration
 - Multi-service routing
 
-### Chapter 7: Google Cloud Platform Infrastructure Setup
+### Chapter 07: Google Cloud Platform Infrastructure Setup
 - GCP-specific deployment configurations
 - Cloud-native service orchestration
 - Platform comparison examples
 
-### Chapter 9: Serverless Deployment with Google Cloud Run
+### Chapter 09: Serverless Deployment with Google Cloud Run
 - **Flask Application**: Secure ML model serving API
 - **Streamlit Dashboard**: Interactive data science applications
 - Containerized serverless deployment
@@ -95,9 +95,9 @@ This repository contains all the practical code examples, configurations, and de
 
 3. Follow the specific setup instructions in each chapter's README or configuration files.
 
-### Example: Running Chapter 5 Multi-Service Application
+### Example: Running Chapter 05 Multi-Service Application
 ```bash
-cd "Chapter 5 Deploying More Robust Applications (Jenkins, Flask, and Streamlit)"
+cd "Chapter 05 Deploying More Robust Applications (Jenkins, Flask, and Streamlit)"
 export JENKINS_UID=$(id -u)
 export JENKINS_GID=$(id -g)
 docker-compose up -d
@@ -140,12 +140,12 @@ docker-compose up -d
 
 ```
 deploy-secure-ds-apps-book/
-├── Chapter 2 SSH to the EC2 Instance with VSCode and Necessary Setup/
-├── Chapter 4 Domain Name and SSL Certificates/
-├── Chapter 5 Deploying More Robust Applications (Jenkins, Flask, and Streamlit)/
-├── Chapter 6 Create and Secure your Subdomains/
-├── Chapter 7 How to Setup This Infrastructure On Google Cloud Platform (GCP)/
-├── Chapter 9 Serverless Deployment with Google Cloud Run/
+├── Chapter 02 SSH to the EC2 Instance with VSCode and Necessary Setup/
+├── Chapter 04 Domain Name and SSL Certificates/
+├── Chapter 05 Deploying More Robust Applications (Jenkins, Flask, and Streamlit)/
+├── Chapter 06 Create and Secure your Subdomains/
+├── Chapter 07 How to Setup This Infrastructure On Google Cloud Platform (GCP)/
+├── Chapter 09 Serverless Deployment with Google Cloud Run/
 ├── Chapter 10 Serverless Deployment with AWS/
 ├── Chapter 11 Demo Using Jenkins as an ETL ELT Platform for Data Science/
 ├── Chapter 12 Demo Streamlit/
